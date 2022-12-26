@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 // Тема: 
-
+// 1111111111111
 struct Element {
 	// Данные
 	char data;
